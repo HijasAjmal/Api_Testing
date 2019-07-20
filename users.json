@@ -1,14 +1,12 @@
 {
-    {
-      "id": 1,
-      "first_name": "Hijas",
-      "last_name": "Ajmal",
-      "email": "Hijasajmal@gmail.com"
-    },
-    {
-      "id": 2,
-      "first_name": "Dilkas",
-      "last_name": "Akmal",
-      "email": "Dilkasakmal@gmail.com"
-    },
+  "id": 1,
+  "first_name": "Hijas",
+  "last_name": "Ajmal",
+  "email": "Hijasajmal@gmail.com"
+},
+{
+  "id": 2,
+  "first_name": "Dilkas",
+  "last_name": "Akmal",
+  "email": "Dilkasakmal@gmail.com"
 }
