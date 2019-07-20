@@ -1,5 +1,4 @@
 {
-  "contacts": [
     {
       "id": 1,
       "first_name": "Hijas",
@@ -12,5 +11,4 @@
       "last_name": "Akmal",
       "email": "Dilkasakmal@gmail.com"
     },
-  ]
 }
