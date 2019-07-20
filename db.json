@@ -1,16 +1,31 @@
 {
-  "contacts": [
+  "posts": [
     {
       "id": 1,
-      "first_name": "Hijas",
-      "last_name": "Ajmal",
-      "email": "Hijasajmal@gmail.com"
+      "title": "Post 1"
     },
     {
       "id": 2,
-      "first_name": "Dilkas",
-      "last_name": "Akmal",
-      "email": "Dilkasakmal@gmail.com"
+      "title": "Post 2"
     },
-  ]
+    {
+      "id": 3,
+      "title": "Post 3"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    },
+    {
+      "id": 2,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
