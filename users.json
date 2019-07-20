@@ -1,7 +1,11 @@
-[
-    {
-      "id": "1",
-      "title": "json-server",
-      "author": "typicode"
+{
+      "foo": "Hello",
+      "nested": {
+        "a": {
+          "b": {
+            "c": "Mock.js"
+          }
+        }
+      },
+      "absolutePath": "Hello Mock.js"
     }
-  ]
